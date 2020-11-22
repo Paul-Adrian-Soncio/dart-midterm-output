@@ -1,5 +1,7 @@
 # dart-midterm-output
 
+VIEW AS RAW
+
 Welcome to my game of Bato, Papel, Gunting!
   Submitted by Paul Adrian D. Soncio
                 BSIT 3-A
