@@ -16,7 +16,7 @@ The program can accept values of any of the following text cases (UPPERCASE, low
 -Feature 2
 The program prints the results as emoji icons.
 
-~Easter Egg~
+//Easter Egg//
 Input in the terminal "GodMode" for a different way of facing your enemy. 
 
 :) 
